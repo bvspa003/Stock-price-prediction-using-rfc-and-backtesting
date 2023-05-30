@@ -1,1 +1,1 @@
-# Stock-price-prediction-using-rfc-and-backtesting
+# Stock Price Prediction using Random Forest Classifier and Backtesting
